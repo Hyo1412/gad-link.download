@@ -1,4 +1,4 @@
-GKD DOWNLOAD
+GAD DOWNLOAD
 =============
 Template website download berbasis HTML/CSS/JavaScript.
 
